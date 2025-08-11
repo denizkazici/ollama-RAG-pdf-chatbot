@@ -1,4 +1,4 @@
-Ollama + ChromaDB RAG Chatbot
+#Ollama + ChromaDB RAG Chatbot
 Project Purpose
 This project is a Retrieval-Augmented Generation (RAG) system capable of extracting information from docx documents and providing relevant answers to user queries based on the documents.
 It uses the Ollama LLM and the ChromaDB vector database.
